@@ -2,9 +2,11 @@
 
 Portfolio of projects on GitHub and elsewhere
 
+
 ## Machine Learning/Data Analysis
 
 * [Machine Learning Notebooks](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn
+
 
 ## Web Applications/Design
 
@@ -22,7 +24,6 @@ Portfolio of projects on GitHub and elsewhere
 
 * [EmacsWiki Theme](https://github.com/bburns/emacswiki-light-theme) - A light theme for the EmacsWiki 
 
-## Desktop Applications
 
 ## Scientific Applications
 
@@ -40,6 +41,7 @@ Portfolio of projects on GitHub and elsewhere
 
 * [School Projects](https://github.com/bburns/School-Projects) - Various school projects 
 
+
 ## Database
 
 * [Abby](https://github.com/bburns/Abby) - Prototype for an interactive console-based database, written in Python with ZODB backend 
@@ -48,24 +50,20 @@ Portfolio of projects on GitHub and elsewhere
 
 * [NeoMem](https://github.com/bburns/NeoMem) - An information manager - word processor+database, C++/MFC 50k sloc
 
-
-
 * [Jylog](https://github.com/bburns/Jylog) - Jylog adds some Prolog features to Python (Jython + Prolog) 
+
+
+## Other
+
+* [Carrot](https://github.com/bburns/Carrot) - Windows console navigation and other commands
+
+* [Clipmon](https://github.com/bburns/clipmon) - Clipboard monitor for Emacs - monitors clipboard and pastes contents on change 
+
+* [Code Lemmas](https://github.com/bburns/code-lemmas) - Implementing some fundamental data structures and algorithms in Java
 
 * [JavaLander](https://github.com/bburns/JavaLander) - Lunar lander-style game demo written in Java 
 
 * [Music Drill](https://github.com/bburns/Music-Drill) - Check your note reading abilities with a flashcard-style drill 
 
 * [Music Flash Cards](https://github.com/bburns/Music-Flash-Cards) - Business card-sized music flash cards in a PDF file, created with LaTeX, Lilypond, and Ruby 
-
-* [Carrot](https://github.com/bburns/Carrot) - Windows console navigation and other commands 
-
-* [Clipmon](https://github.com/bburns/clipmon) - Clipboard monitor for Emacs - monitors clipboard and pastes contents on change 
-
-* [Code Lemmas](https://github.com/bburns/code-lemmas) - Implementing some fundamental data structures and algorithms. 
-
-
-
-
-
 
