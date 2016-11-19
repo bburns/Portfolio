@@ -12,7 +12,7 @@ Portfolio of projects on GitHub and elsewhere
 
 * [PyVoyager](https://github.com/bburns/PyVoyager) - Automatic creation of Voyager 1 and 2 flyby movies using Python, OpenCV, SPICE, ISIS on Linux 
 
-* [Object Detection in Video](https://github.com/bburns/Object-Detection-in-Video) - Detecting objects in video using key-segments - UT CS 370 Research Project 
+* [Object Detection in Video](https://github.com/bburns/Object-Detection-in-Video) - Detecting objects in video using key-segments with MatLab and libsvm - UT CS 370 Research Project 
 
 * [DNA-Protein Binding](https://github.com/bburns/DNA-Protein-Binding) - Finding the DNA binding site for a protein using Python, Chimera, and FTDock 
 
