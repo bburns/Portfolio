@@ -16,7 +16,7 @@ Portfolio of projects on GitHub and elsewhere
 
 * [DNA-Protein Binding](https://github.com/bburns/DNA-Protein-Binding) - Finding the DNA binding site for a protein using Python, Chimera, and FTDock 
 
-* [Particle Simulator](https://github.com/bburns/Particle-Simulator) - Run different experiments on particles in a box and compare with expected results - Ideal Gas Law, Diffusion, Velocity Distribution 
+* [Particle Simulator](https://github.com/bburns/Particle-Simulator) - Run different experiments on particles in a box and compare with expected results using MatLab - Ideal Gas Law, Diffusion, Velocity Distribution 
 
 * [Hydrogen Orbitals](https://github.com/bburns/Hydrogen-Orbitals) - Solving the Shroedinger Equation for the first 6 Hydrogen orbitals using Fortran and Gnuplot 
 
@@ -48,12 +48,12 @@ Portfolio of projects on GitHub and elsewhere
 
 * [Owlsign](https://github.com/bburns/bburns.github.io) - A blog using Emacs Org-mode and Jekyll 
 
-* [EmacsWiki Theme](https://github.com/bburns/emacswiki-light-theme) - A light theme for the EmacsWiki 
+* [EmacsWiki Theme](https://github.com/bburns/emacswiki-light-theme) - A light theme for the EmacsWiki made with CSS
 
 
 ## Other
 
-* [Carrot](https://github.com/bburns/Carrot) - Windows console navigation and other commands
+* [Carrot](https://github.com/bburns/Carrot) - Windows console navigation and other commands in batch files
 
 * [Clipmon](https://github.com/bburns/clipmon) - Clipboard monitor for Emacs - monitors clipboard and pastes contents on change 
 
