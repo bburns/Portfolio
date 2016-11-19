@@ -2,6 +2,17 @@
 
 Portfolio of projects on GitHub and elsewhere
 
+## Links
+
+First, a few links...
+
+* [Twitter](http://twitter.com/bburnskm)
+* [Trilogy Data Solutions (company site)](http://trilogydata.org)
+* [Owlsign (personal site)](http://owlsign.org)
+* [Medium (occasional posts)](https://medium.com/@bburnskm)
+* [LinkedIn](https://www.linkedin.com/in/bburnskm)
+* [Stack Overflow](http://stackoverflow.com/users/story/243392)
+
 
 ## Machine Learning
 
