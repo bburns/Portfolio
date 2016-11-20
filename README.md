@@ -5,7 +5,7 @@ Portfolio of projects on GitHub and elsewhere - projects in **bold** are more re
 
 ## Machine Learning
 
-* [**Machine Learning Notebooks**](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn
+* [**Machine Learning Notebooks**](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn - Regression, Classification, Clustering
 
 
 ## Science
