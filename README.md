@@ -1,6 +1,6 @@
 # Portfolio
 
-Portfolio of projects on GitHub and elsewhere
+Portfolio of projects on GitHub and elsewhere - projects in **bold** are more recent or more interesting.
 
 
 ## Machine Learning
