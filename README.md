@@ -27,6 +27,8 @@ Portfolio of projects on GitHub and elsewhere
 
 ## Database
 
+* [Resource Forecasting Tool](http://trilogydata.org) - Project management and resource tracking with multidimensional reporting
+
 * [NeoMem](https://github.com/bburns/NeoMem) - An information manager - word processor+database, C++/MFC 50k sloc
 
 * [Abby](https://github.com/bburns/Abby) - Prototype for an interactive console-based database, written in Python with ZODB backend 
