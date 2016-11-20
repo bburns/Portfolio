@@ -8,7 +8,7 @@ Portfolio of projects on GitHub and elsewhere
 * [Machine Learning Notebooks](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn
 
 
-## Scientific Applications
+## Science
 
 * [PyVoyager](https://github.com/bburns/PyVoyager) - Automatic creation of Voyager 1 and 2 flyby movies using Python, OpenCV, SPICE, ISIS on Linux 
 
@@ -34,7 +34,7 @@ Portfolio of projects on GitHub and elsewhere
 * [LispDb](https://github.com/bburns/LispDb) - A simple database written in Common Lisp, with a library to make it more Scheme-like 
 
 
-## Web Applications/Design
+## Web Application/Design
 
 * [Art Tour](https://github.com/bburns/Art-Tour) - Art Tour helps organize trips around artworks and museums - made with React, Google Maps API, npm, AWS, Nginx, and Express 
 
@@ -79,7 +79,4 @@ And finally, a few other links...
 * [Medium (occasional posts)](https://medium.com/@bburnskm)
 * [LinkedIn](https://www.linkedin.com/in/bburnskm)
 * [Stack Overflow](http://stackoverflow.com/users/story/243392)
-
-
-
 
