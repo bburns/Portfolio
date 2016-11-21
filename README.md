@@ -42,7 +42,7 @@ Portfolio of projects on GitHub and elsewhere - projects in **bold** are more re
 
 * [**Quilty**](https://github.com/bburns/Quilty) - A color explorer for quilt designs, built with React, d3, jQuery, and JavaScript 
 
-* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code and map with d3 and Graphviz 
+* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map 
 
 * [**Single Page Web Applications** for FreeCodeCamp](https://github.com/bburns/WebApplications) - Calculator, Pomodoro Timer, Simon, Tic-Tac-Toe, Weather Station, Quote Generator, Artist Tribute Page, and TwitchTv Guide
 
