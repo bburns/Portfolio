@@ -46,6 +46,8 @@ Projects in **bold** are more recent or more interesting.
 
 * [**Single Page Web Applications** for FreeCodeCamp](https://github.com/bburns/WebApplications) - Calculator, Pomodoro Timer, Simon, Tic-Tac-Toe, Weather Station, Quote Generator, Artist Tribute Page, and TwitchTv Guide
 
+* [Trilogy Data Solutions Website](http://trilogydata.org) - Website for Trilogy Data Solutions
+
 * [Anonymous Social Network](https://github.com/bburns/Anonymous-Social-Network) - A social network site built with Python, Django, jQuery, and Google App Engine 
 
 * [Owlsign](https://github.com/bburns/bburns.github.io) - A blog using Emacs Org-mode and Jekyll 
