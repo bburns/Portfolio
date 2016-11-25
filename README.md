@@ -1,7 +1,5 @@
 # Portfolio
 
-Projects in **bold** are more recent or more interesting.
-
 
 ## Machine Learning
 
@@ -38,9 +36,9 @@ Projects in **bold** are more recent or more interesting.
 
 ## Web Application/Design
 
-* [**Art Tour**](https://github.com/bburns/Art-Tour) - Art Tour helps organize trips around artworks and museums - made with React, Google Maps API, npm, AWS, Nginx, and Express 
+* [**Art Tour**](https://github.com/bburns/Art-Tour) - Art Tour helps organize trips around artworks and museums - made with React, Google Maps API, npm, AWS, Nginx, and Express. [Site](http://owl-syme.org/arttour/)
 
-* [**Quilty**](https://github.com/bburns/Quilty) - A color explorer for quilt designs, built with React, d3, jQuery, and JavaScript 
+* [**Quilty**](https://github.com/bburns/Quilty) - A color explorer for quilt designs, built with React, d3, jQuery, and JavaScript. [Site](http://owl-syme.org/quilty/) 
 
 * [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map 
 
@@ -75,7 +73,7 @@ Projects in **bold** are more recent or more interesting.
 
 ## Links
 
-And finally, a few other links...
+A few other links...
 
 * [Twitter](http://twitter.com/bburnskm)
 * [Trilogy Data Solutions (company site)](http://trilogydata.org)
