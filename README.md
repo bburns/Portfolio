@@ -1,9 +1,11 @@
 # Portfolio
 
 
-## Machine Learning
+## Machine Learning / Visualization
 
 * [**Machine Learning Notebooks**](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn - Regression, Classification, Clustering
+
+* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map 
 
 
 ## Science
@@ -40,8 +42,6 @@
 
 * [**Quilty**](https://github.com/bburns/Quilty) - A color explorer for quilt designs, built with React, d3, jQuery, and JavaScript. [Site](http://owl-syme.org/quilty/) 
 
-* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map 
-
 * [**Single Page Web Applications** for FreeCodeCamp](https://github.com/bburns/WebApplications) - Calculator, Pomodoro Timer, Simon, Tic-Tac-Toe, Weather Station, Quote Generator, Artist Tribute Page, and TwitchTv Guide
 
 * [Trilogy Data Solutions Website](http://trilogydata.org) - Website for Trilogy Data Solutions
@@ -68,7 +68,6 @@
 * [Music Drill](https://github.com/bburns/Music-Drill) - Check your note reading abilities with a flashcard-style drill, written in C++/MFC
 
 * [Music Flash Cards](https://github.com/bburns/Music-Flash-Cards) - Business card-sized music flash cards in a PDF file, created with LaTeX, Lilypond, and Ruby 
-
 
 
 ## Links
