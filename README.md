@@ -5,7 +5,7 @@
 
 * [**Machine Learning Notebooks**](https://github.com/bburns/Machine-Learning) - Exploring machine learning algorithms using Python, Jupyter, scikit-learn, pandas, matplotlib, and seaborn - Regression, Classification, Clustering
 
-* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map 
+* [**Lantern**](https://github.com/bburns/Lantern) - Exploring the original Zork source code with Graphviz and an interactive d3 map, using JavaScript and an extension of Peter Norvig's Python Lisp parser to handle MDL
 
 
 ## Science
