@@ -22,7 +22,7 @@
 
 * [Rocket](https://github.com/bburns/rocket.f77) - An old Fortran program for an aerospace class - simulating a rocket launch with an ODE solver 
 
-* [School Projects](https://github.com/bburns/School-Projects) - Various school projects 
+* [School Projects](https://github.com/bburns/School-Projects) - Various school projects - measuring Planck's constant, measuring acceleration of gravity 
 
 
 ## Database
